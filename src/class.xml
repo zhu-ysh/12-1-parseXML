@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classes>
+	<class num="java1707">
+		<students>
+			<student id="01">
+				<name>A</name>
+				<age>20</age>
+				<gender>男</gender>
+			</student>
+			<student id="02">
+				<name>B</name>
+				<age>20</age>
+				<gender>女</gender>
+			</student>
+		</students>
+	</class>
+	<class num="java1708">
+		<students>
+			<student id="01">
+				<name>C</name>
+				<age>20</age>
+				<gender>男</gender>
+			</student>
+			<student id="02">
+				<name>D</name>
+				<age>20</age>
+				<gender>女</gender>
+			</student>
+		</students>
+	</class>
+</classes>
